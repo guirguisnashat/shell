@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1540590781 source:/home/guirguis/Documents/shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+
